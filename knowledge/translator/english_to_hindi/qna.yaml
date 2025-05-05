@@ -1,12 +1,14 @@
 version: 3
 domain: translation
 created_by: user
+document_outline: |
+  English to UP Hindi Translation Examples. A collection of translation examples from English to the local dialect of Hindi spoken in Uttar Pradesh (UP Hindi).
 seed_examples:
-  - context: >
+  - context: |
       This system is designed to translate English sentences into the local
-      dialect of Hindi spoken in Uttar Pradesh (UP Hindi). 
-      UP Hindi blends standard Hindi grammar with regional vocabulary, expressions, and speech patterns commonly 
-      used by people in cities and villages of Uttar Pradesh. 
+      dialect of Hindi spoken in Uttar Pradesh (UP Hindi).
+      UP Hindi blends standard Hindi grammar with regional vocabulary, expressions, and speech patterns commonly
+      used by people in cities and villages of Uttar Pradesh.
       The translations are meant to sound natural, relatable, and conversational, rather than overly formal.
       The translator takes an English sentence or phrase and produces its equivalent in UP Hindi.
     questions_and_answers:
@@ -22,11 +24,11 @@ seed_examples:
           Translate: "She is cooking food."
         answer: |
           उ खाना बना रही है।
-  - context: >
+  - context: |
       This system is designed to translate English sentences into the local
-      dialect of Hindi spoken in Uttar Pradesh (UP Hindi). 
-      UP Hindi blends standard Hindi grammar with regional vocabulary, expressions, and speech patterns commonly 
-      used by people in cities and villages of Uttar Pradesh. 
+      dialect of Hindi spoken in Uttar Pradesh (UP Hindi).
+      UP Hindi blends standard Hindi grammar with regional vocabulary, expressions, and speech patterns commonly
+      used by people in cities and villages of Uttar Pradesh.
       The translations are meant to sound natural, relatable, and conversational, rather than overly formal.
       The translator takes an English sentence or phrase and produces its equivalent in UP Hindi.
     questions_and_answers:
@@ -42,11 +44,11 @@ seed_examples:
           Translate: "It is very hot today."
         answer: |
           आज त बहुत गर्मी बा।
-  - context: >
+  - context: |
       This system is designed to translate English sentences into the local
-      dialect of Hindi spoken in Uttar Pradesh (UP Hindi). 
-      UP Hindi blends standard Hindi grammar with regional vocabulary, expressions, and speech patterns commonly 
-      used by people in cities and villages of Uttar Pradesh. 
+      dialect of Hindi spoken in Uttar Pradesh (UP Hindi).
+      UP Hindi blends standard Hindi grammar with regional vocabulary, expressions, and speech patterns commonly
+      used by people in cities and villages of Uttar Pradesh.
       The translations are meant to sound natural, relatable, and conversational, rather than overly formal.
       The translator takes an English sentence or phrase and produces its equivalent in UP Hindi.
     questions_and_answers:
@@ -62,11 +64,11 @@ seed_examples:
           Translate: "I am very tired."
         answer: |
           हम बहुत थक गइल बानी।
-  - context: >
+  - context: |
       This system is designed to translate English sentences into the local
-      dialect of Hindi spoken in Uttar Pradesh (UP Hindi). 
-      UP Hindi blends standard Hindi grammar with regional vocabulary, expressions, and speech patterns commonly 
-      used by people in cities and villages of Uttar Pradesh. 
+      dialect of Hindi spoken in Uttar Pradesh (UP Hindi).
+      UP Hindi blends standard Hindi grammar with regional vocabulary, expressions, and speech patterns commonly
+      used by people in cities and villages of Uttar Pradesh.
       The translations are meant to sound natural, relatable, and conversational, rather than overly formal.
       The translator takes an English sentence or phrase and produces its equivalent in UP Hindi.
     questions_and_answers:
@@ -82,11 +84,11 @@ seed_examples:
           Translate: "Don't worry."
         answer: |
           चिन्ता मत कर।
-  - context: >
+  - context: |
       This system is designed to translate English sentences into the local
-      dialect of Hindi spoken in Uttar Pradesh (UP Hindi). 
-      UP Hindi blends standard Hindi grammar with regional vocabulary, expressions, and speech patterns commonly 
-      used by people in cities and villages of Uttar Pradesh. 
+      dialect of Hindi spoken in Uttar Pradesh (UP Hindi).
+      UP Hindi blends standard Hindi grammar with regional vocabulary, expressions, and speech patterns commonly
+      used by people in cities and villages of Uttar Pradesh.
       The translations are meant to sound natural, relatable, and conversational, rather than overly formal.
       The translator takes an English sentence or phrase and produces its equivalent in UP Hindi.
     questions_and_answers:
@@ -104,6 +106,6 @@ seed_examples:
           हमार नाम रमेश बा।
 document:
   repo: https://github.com/madhur02/taxonomy
-  commit: 0a1f2672b9b90582e6115333e3ed62fd628f1c0f
+  commit: a5453819451c75de8bc53f728ce66ddf7f036b5d
   patterns:
     - phoenix_constellation.md
