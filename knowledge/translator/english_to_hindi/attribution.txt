@@ -1,0 +1,5 @@
+Title of work: English to Hindi Translation (UP Dialect)
+Link to work: https://github.com/madhur02/taxonomy
+Revision: https://github.com/madhur02/taxonomy
+License of the work: CC-BY-SA-4.0
+Creator names: Madhur Jain
