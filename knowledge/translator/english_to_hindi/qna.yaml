@@ -2,8 +2,9 @@ version: 3
 domain: translation
 created_by: user
 seed_examples:
-  - context: |
-      This system is designed to translate English sentences into the local dialect of Hindi spoken in Uttar Pradesh (UP Hindi). 
+  - context: >
+      This system is designed to translate English sentences into the local
+      dialect of Hindi spoken in Uttar Pradesh (UP Hindi). 
       UP Hindi blends standard Hindi grammar with regional vocabulary, expressions, and speech patterns commonly 
       used by people in cities and villages of Uttar Pradesh. 
       The translations are meant to sound natural, relatable, and conversational, rather than overly formal.
@@ -21,8 +22,9 @@ seed_examples:
           Translate: "She is cooking food."
         answer: |
           उ खाना बना रही है।
-  - context: |
-      This system is designed to translate English sentences into the local dialect of Hindi spoken in Uttar Pradesh (UP Hindi). 
+  - context: >
+      This system is designed to translate English sentences into the local
+      dialect of Hindi spoken in Uttar Pradesh (UP Hindi). 
       UP Hindi blends standard Hindi grammar with regional vocabulary, expressions, and speech patterns commonly 
       used by people in cities and villages of Uttar Pradesh. 
       The translations are meant to sound natural, relatable, and conversational, rather than overly formal.
@@ -40,8 +42,9 @@ seed_examples:
           Translate: "It is very hot today."
         answer: |
           आज त बहुत गर्मी बा।
-  - context: |
-      This system is designed to translate English sentences into the local dialect of Hindi spoken in Uttar Pradesh (UP Hindi). 
+  - context: >
+      This system is designed to translate English sentences into the local
+      dialect of Hindi spoken in Uttar Pradesh (UP Hindi). 
       UP Hindi blends standard Hindi grammar with regional vocabulary, expressions, and speech patterns commonly 
       used by people in cities and villages of Uttar Pradesh. 
       The translations are meant to sound natural, relatable, and conversational, rather than overly formal.
@@ -59,8 +62,9 @@ seed_examples:
           Translate: "I am very tired."
         answer: |
           हम बहुत थक गइल बानी।
-  - context: |
-      This system is designed to translate English sentences into the local dialect of Hindi spoken in Uttar Pradesh (UP Hindi). 
+  - context: >
+      This system is designed to translate English sentences into the local
+      dialect of Hindi spoken in Uttar Pradesh (UP Hindi). 
       UP Hindi blends standard Hindi grammar with regional vocabulary, expressions, and speech patterns commonly 
       used by people in cities and villages of Uttar Pradesh. 
       The translations are meant to sound natural, relatable, and conversational, rather than overly formal.
@@ -78,13 +82,13 @@ seed_examples:
           Translate: "Don't worry."
         answer: |
           चिन्ता मत कर।
-  - context: |
-      This system is designed to translate English sentences into the local dialect of Hindi spoken in Uttar Pradesh (UP Hindi). 
+  - context: >
+      This system is designed to translate English sentences into the local
+      dialect of Hindi spoken in Uttar Pradesh (UP Hindi). 
       UP Hindi blends standard Hindi grammar with regional vocabulary, expressions, and speech patterns commonly 
       used by people in cities and villages of Uttar Pradesh. 
       The translations are meant to sound natural, relatable, and conversational, rather than overly formal.
       The translator takes an English sentence or phrase and produces its equivalent in UP Hindi.
-      
     questions_and_answers:
       - question: |
           Translate: "I am going home."
@@ -95,11 +99,11 @@ seed_examples:
         answer: |
           तोहार नाम का बा?
       - question: |
-           Translate: "My name is Ramesh."
+          Translate: "My name is Ramesh."
         answer: |
           हमार नाम रमेश बा।
 document:
-    repo: https://github.com/madhur02/taxonomy
-    commit: 0a1f2672b9b90582e6115333e3ed62fd628f1c0f
-    patterns:
-      - phoenix_constellation.md
+  repo: https://github.com/madhur02/taxonomy
+  commit: 0a1f2672b9b90582e6115333e3ed62fd628f1c0f
+  patterns:
+    - phoenix_constellation.md
