@@ -106,6 +106,6 @@ seed_examples:
           हमार नाम रमेश बा।
 document:
   repo: https://github.com/madhur02/taxonomy
-  commit: 25f96c4c7dfc0e209aad9fca5d77a07f11e23f7d
+  commit: 0ed4cd273b636e49b9c257552ae5269a65e0af37
   patterns:
     - english_to_hindi_translator.md
