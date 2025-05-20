@@ -80,49 +80,7 @@ To use the translator for converting English to Uttar Pradesh Hindi:
 - **English**: "Please submit your income tax return by the deadline."
 - **UP Hindi**: "कृपया अपना आयकर रिटर्न आखिरी तारीख तक जमा कर दें।"
 
-## History
 
-The English to Hindi Translator project began in 2018 as a collaborative effort between [Uttar Pradesh Hindi Academy](Hindi_Academy "wikilink") and technology developers specializing in natural language processing. The primary motivation was to create a translation tool that preserved the authentic regional characteristics of the Hindi spoken across Uttar Pradesh, rather than defaulting to standardized Hindi that often loses local flavors.
-
-### Development Timeline
-- **2018**: Initial data collection and corpus development
-- **2019**: First prototype with basic translation capabilities
-- **2020**: Integration of dialect-specific features and regional variations
-- **2021**: Public beta release with continuous improvement framework
-- **2022**: Full release with advanced features including voice recognition
-- **2023**: Mobile application launch and API availability for developers
-- **2024**: Advanced contextual understanding and cultural nuance processing
-
-The project has received recognition for its contribution to language preservation and digital inclusion, allowing content creators to effectively reach Hindi-speaking populations in their native dialect.
-
-## Technical Requirements
-
-### For Web Version
-- Any modern web browser (Chrome, Firefox, Safari, Edge)
-- Minimum 2 Mbps internet connection
-- JavaScript enabled
-
-### For Mobile Application
-- Android 7.0 or higher / iOS 12.0 or higher
-- 50 MB free storage space
-- 2 GB RAM recommended
-- Microphone access (for voice input feature)
-- Camera access (for image text recognition)
-
-### For API Integration
-- REST API access
-- Authentication via API key
-- Rate limits: 5,000 characters per request, 100,000 characters per day on free tier
-- Enterprise packages available for higher volume needs
-
-## Privacy and Data Handling
-
-The English to Hindi Translator prioritizes user privacy with the following measures:
-- No permanent storage of translated content
-- Encrypted data transmission using TLS 1.3
-- Option to use offline translation for sensitive content
-- No user tracking for marketing purposes
-- Anonymous usage statistics collected only for improving translation quality
 
 ## Community Contributions
 
@@ -133,14 +91,6 @@ The translation system continuously improves through community contributions:
 - Volunteer program for recording authentic pronunciations
 - Open lexicon project for documenting region-specific terms
 
-## Future Development
-
-Planned enhancements for future releases include:
-- Integration with video content for real-time subtitle translation
-- Expansion to include more granular regional variations within UP
-- Advanced sentiment preservation during translation
-- Cultural context explanations alongside translations
-- Interactive learning mode for English speakers to understand Hindi nuances
 
 ## Related Tools
 

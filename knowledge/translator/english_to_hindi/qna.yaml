@@ -5,105 +5,80 @@ document_outline: |
   English to UP Hindi Translation Examples. A collection of translation examples from English to the local dialect of Hindi spoken in Uttar Pradesh (UP Hindi).
 seed_examples:
   - context: |
-      This system is designed to translate English sentences into the local
-      dialect of Hindi spoken in Uttar Pradesh (UP Hindi).
-      UP Hindi blends standard Hindi grammar with regional vocabulary, expressions, and speech patterns commonly
-      used by people in cities and villages of Uttar Pradesh.
-      The translations are meant to sound natural, relatable, and conversational, rather than overly formal.
-      The translator takes an English sentence or phrase and produces its equivalent in UP Hindi.
+      Translate the given sentence into colloquial Braj Bhasha Hindi as spoken in Uttar Pradesh region.
     questions_and_answers:
       - question: |
-          Translate: "What are you doing?"
+          Translate: "The Chief Minister's Office has announced relief measures for farmers affected by the recent floods in the eastern districts."
         answer: |
-          तू का कर रहा है?
+          मुख्यमंत्री कार्यालय ने पूर्वी जिलों में हाल की बाढ़ से प्रभावित किसानों के लिए राहत उपायों की घोषणा की है।
       - question: |
-          Translate: "I am going to the market."
+          Translate: "The Public Distribution System shops will remain open on all working days from 9 AM to 5 PM."
         answer: |
-          हम बाजार जात हई।
+          सार्वजनिक वितरण प्रणाली की दुकानें सभी कार्य दिवसों पर सुबह 9 बजे से शाम 5 बजे तक खुली रहेंगी।
       - question: |
-          Translate: "She is cooking food."
+          Translate: "The Health Department has organized a vaccination camp for children below five years of age."
         answer: |
-          उ खाना बना रही है।
+          स्वास्थ्य विभाग ने पांच वर्ष से कम आयु के बच्चों के लिए एक टीकाकरण शिविर का आयोजन किया है।
   - context: |
-      This system is designed to translate English sentences into the local
-      dialect of Hindi spoken in Uttar Pradesh (UP Hindi).
-      UP Hindi blends standard Hindi grammar with regional vocabulary, expressions, and speech patterns commonly
-      used by people in cities and villages of Uttar Pradesh.
-      The translations are meant to sound natural, relatable, and conversational, rather than overly formal.
-      The translator takes an English sentence or phrase and produces its equivalent in UP Hindi.
+      Translate the given sentence into colloquial Awadhi Hindi as spoken in Uttar Pradesh region.
     questions_and_answers:
       - question: |
-          Translate: "Please sit down."
+          Translate: "The DM of Pilibhit has ordered flood preparedness along the Sharda River. The PWD is strengthening embankments. A Rs. 5-crore relief fund has been allocated."
         answer: |
-          बैठ जा भइया।
+          पीलीभीत के डीएम ने शारदा नदी के किनारे बाढ़ तैयारियों का आदेश दिया है। पीडब्ल्यूडी तटबंधों को मजबूत कर रहा है। 5 करोड़ रुपये की राहत राशि आवंटित की गई है।
       - question: |
-          Translate: "Where are you going?"
+          Translate: "The term 'Rajbhasha' refers to the language used for official work, that is, the language used by the government for tasks concerning the general public."
         answer: |
-          कहाँ जात हउवा?
+          राजभाषा अर्थात राज-काज की भाषा, अर्थात सरकार द्वारा आम-जन के लिए किए जाने वाले कार्यों की भाषा।
       - question: |
-          Translate: "It is very hot today."
+          Translate: "The Lucknow administration is hereby instructed to prohibit unauthorized drone usage during the Lucknow Mahotsav."
         answer: |
-          आज त बहुत गर्मी बा।
+          लखनऊ प्रशासन को एतद्द्वारा लखनऊ महोत्सव के दौरान अनधिकृत ड्रोन उपयोग पर प्रतिबंध लगाने का निर्देश दिया जाता है।
   - context: |
-      This system is designed to translate English sentences into the local
-      dialect of Hindi spoken in Uttar Pradesh (UP Hindi).
-      UP Hindi blends standard Hindi grammar with regional vocabulary, expressions, and speech patterns commonly
-      used by people in cities and villages of Uttar Pradesh.
-      The translations are meant to sound natural, relatable, and conversational, rather than overly formal.
-      The translator takes an English sentence or phrase and produces its equivalent in UP Hindi.
+      Translate the given sentence into colloquial Magadhi Hindi as spoken in Uttar Pradesh region.
     questions_and_answers:
       - question: |
-          Translate: "I don't know."
+          Translate: "The Agra administration is directed to promote eco-friendly tourism in the Keetham Lake area."
         answer: |
-          हमका नाहीं पता।
+          आगरा प्रशासन को कीथम झील क्षेत्र में पर्यावरण-अनुकूल पर्यटन को बढ़ावा देने का निर्देश दिया जाता है।
       - question: |
-          Translate: "Will you come tomorrow?"
+          Translate: "The District Magistrate of Ayodhya has ordered officials to ensure proper sanitation during the Ram Navami fair."
         answer: |
-          तू काल आइब?
+          अयोध्या के जिला मजिस्ट्रेट ने राम नवमी मेले के दौरान उचित स्वच्छता सुनिश्चित करने का निर्देश दिया है।
       - question: |
-          Translate: "I am very tired."
+          Translate: "The Moradabad administration is instructed to organize a brassware exhibition during the Handicraft Week."
         answer: |
-          हम बहुत थक गइल बानी।
+          मुरादाबाद प्रशासन को हस्तशिल्प सप्ताह के दौरान पीतल के बर्तनों की प्रदर्शनी आयोजित करने का निर्देश दिया जाता है।
   - context: |
-      This system is designed to translate English sentences into the local
-      dialect of Hindi spoken in Uttar Pradesh (UP Hindi).
-      UP Hindi blends standard Hindi grammar with regional vocabulary, expressions, and speech patterns commonly
-      used by people in cities and villages of Uttar Pradesh.
-      The translations are meant to sound natural, relatable, and conversational, rather than overly formal.
-      The translator takes an English sentence or phrase and produces its equivalent in UP Hindi.
+      Translate the given sentence into colloquial Hindi as spoken in Uttar Pradesh region.
     questions_and_answers:
       - question: |
-          Translate: "I am feeling hungry."
+          Translate: "The Bulandshahr district authorities are instructed to promote dairy farming during the Gokulashtami festival."
         answer: |
-          हमका भूख लागी है।
+          बुलंदशहर जिला अधिकारियों को गोकुलाष्टमी त्योहार के दौरान डेयरी खेती को बढ़ावा देने का निर्देश दिया जाता है।
       - question: |
-          Translate: "When will you come?"
+          Translate: "The Rampur Municipal Corporation is directed to arrange free shuttle services for devotees during the Eid-ul-Fitr celebrations."
         answer: |
-          तू कब आइब?
+          रामपुर नगर निगम को ईद-उल-फित्र समारोह के दौरान श्रद्धालुओं के लिए निःशुल्क शटल सेवाएँ व्यवस्थित करने का निर्देश दिया जाता है।
       - question: |
-          Translate: "Don't worry."
+          Translate: "The Bahraich district authorities are directed to promote fish farming along the Ghaghara River."
         answer: |
-          चिन्ता मत कर।
+          बहराइच जिला अधिकारियों को घाघरा नदी के किनारे मछली पालन को बढ़ावा देने का निर्देश दिया जाता है।
   - context: |
-      This system is designed to translate English sentences into the local
-      dialect of Hindi spoken in Uttar Pradesh (UP Hindi).
-      UP Hindi blends standard Hindi grammar with regional vocabulary, expressions, and speech patterns commonly
-      used by people in cities and villages of Uttar Pradesh.
-      The translations are meant to sound natural, relatable, and conversational, rather than overly formal.
-      The translator takes an English sentence or phrase and produces its equivalent in UP Hindi.
+      Translate the given sentence into colloquial Hindi as spoken in Uttar Pradesh region.
     questions_and_answers:
       - question: |
-          Translate: "I am going home."
+          Translate: "The Shravasti administration is hereby instructed to organize a heritage walk during the Buddha Purnima festival."
         answer: |
-          हम घरे जात हई।
+          श्रावस्ती प्रशासन को एतद्द्वारा बुद्ध पूर्णिमा त्योहार के दौरान विरासत भ्रमण आयोजित करने का निर्देश दिया जाता है।
       - question: |
-          Translate: "What is your name?"
+          Translate: "The Animal Husbandry Department is organizing a free vaccination camp for livestock in rural areas of Bahraich district from the 10th to the 15th of next month."
         answer: |
-          तोहार नाम का बा?
+          पशुपालन विभाग अगले माह की 10 से 15 तारीख तक बहराइच जिले के ग्रामीण क्षेत्रों में पशुधन के लिए एक निःशुल्क टीकाकरण शिविर का आयोजन कर रहा है।
       - question: |
-          Translate: "My name is Ramesh."
+          Translate: "The Urban Development Authority has approved the master plan for the expansion of Noida city. The details can be accessed on the official website of the Authority."
         answer: |
-          हमार नाम रमेश बा।
+          शहरी विकास प्राधिकरण ने नोएडा शहर के विस्तार के लिए मास्टर प्लान को मंजूरी दे दी है। विवरण प्राधिकरण की आधिकारिक वेबसाइट पर देखा जा सकता है।
 document:
   repo: https://github.com/madhur02/taxonomy
   commit: 0ed4cd273b636e49b9c257552ae5269a65e0af37
